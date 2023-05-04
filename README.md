@@ -2,7 +2,7 @@
 #### I am a Front-end Developer and Designer
 ![I am a Front-end Developer and Designer](https://media.licdn.com/dms/image/D4E16AQET-1MmzvzF6w/profile-displaybackgroundimage-shrink_350_1400/0/1682017159991?e=1687996800&v=beta&t=gTMsBQIe3EcqfsgHOHHWuWBfvQuFwkiXVYxBbsNK9oA)
 
-I studied Design and Visual communication, but decided to challenge me in developer world. With creativity, searching and knowledge I am able to make a functional web.
+I studied Design and Visual communication, but decided to challenge me in developer world. With creativity, searching and knowledge I am able to create a functional website.
 
 Skills: JS / HTML / CSS / JEST / NODE
 
